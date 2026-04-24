@@ -96,11 +96,11 @@ Welcome to EverMemOS! Join our community to help improve the project and collabo
 
 ## Usecases
 
-![Image](https://github.com/user-attachments/assets/0c3eb2c5-3a15-4d09-8dee-c38f96422168)
+[![Image](https://github.com/user-attachments/assets/60713404-2e94-4cab-9e5f-15b36291dc6f)](https://github.com/EverMind-AI/EverMemOS/tree/agent_memory)
 
-**OpenClaw Long-Term Memory Plugin(coming this week)**
+**OpenClaw Long-Term Memory Plugin**
 
-Claw is putting the pieces of his memory together. Imagine a 24/7 agent with continuous learning memory that you can carry with you wherever you go next.
+Claw is putting the pieces of his memory together. Imagine a 24/7 agent with continuous learning memory that you can carry with you wherever you go next. Check out the [agent_memory](https://github.com/EverMind-AI/EverMemOS/tree/agent_memory) branch for more details.
 
 
 ![divider][divider-light]
@@ -121,12 +121,12 @@ See the [Live2D Character with Memory Example](https://github.com/TEN-framework/
 
 <br>
 
-![Image](https://github.com/user-attachments/assets/0d306b4c-bcd7-4e9e-a244-22fa3cb7b727)
+[![Image](https://github.com/user-attachments/assets/0d306b4c-bcd7-4e9e-a244-22fa3cb7b727)](https://screenshot-analysis-vercel.vercel.app/)
 
 **Computer-Use with Memory**
 
 Use computer-use to launch screenshot to do analysis all in your memory.
-See the [live demo]() for more details.
+See the [live demo](https://screenshot-analysis-vercel.vercel.app/) for more details.
 
 
 ![divider][divider-light]
